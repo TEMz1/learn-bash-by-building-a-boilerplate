@@ -104,3 +104,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 git init
 git add .
+git remote set-url origin https://github.com/TEMz1/learnbash-mkos.git
+git push -u origin main
