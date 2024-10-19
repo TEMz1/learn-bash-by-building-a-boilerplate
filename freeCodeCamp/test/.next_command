@@ -32,3 +32,10 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello terminal
 git init
 git add .
+git set remote set-url origin https://github.com/TEMz1/learnbash-mkos.git
+git remote set-url origin https://github.com/TEMz1/learnbash-mkos.git
+git push -u origin main
+git push -u origin main
+clear
+pw
+pwd
