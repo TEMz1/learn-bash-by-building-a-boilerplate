@@ -106,3 +106,7 @@ git init
 git add .
 git remote set-url origin https://github.com/TEMz1/learnbash-mkos.git
 git push -u origin main
+cd
+cd
+cd freeCodeCamp
+cd freeCodeCamp
