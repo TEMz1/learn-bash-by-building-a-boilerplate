@@ -282,3 +282,4 @@ cp background.jpg images
 cat images
 cd images
 ls --color=auto
+cd ..
