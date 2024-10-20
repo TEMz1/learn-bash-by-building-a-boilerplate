@@ -413,3 +413,4 @@ rm roboto-bold.woff
 find
 clear
 touch client/assets/fonts/roboto-bold.woff
+touch client/assets/fonts/roboto-light.woff
