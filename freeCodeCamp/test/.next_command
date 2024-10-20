@@ -460,3 +460,4 @@ find toms-wbesite
 find website-boilerplate
 clear
 echo goodbye terminal
+exit
