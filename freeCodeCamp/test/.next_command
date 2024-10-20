@@ -458,3 +458,4 @@ find
 ls --color=auto
 find toms-wbesite
 find website-boilerplate
+clear
