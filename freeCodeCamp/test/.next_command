@@ -391,3 +391,10 @@ rm website/images
 rm images/background.jpg
 rmdir images
 ls --color=auto
+find
+mkdir icons client/assets
+find
+ls --color=auto
+rmdir icons
+mkdir clients/assets/icons
+mkdir client/assets/icons
