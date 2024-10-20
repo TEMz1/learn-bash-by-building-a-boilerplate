@@ -213,3 +213,4 @@ ls --color=auto
 cat package.json
 cd package.json
 more package.json
+clear
