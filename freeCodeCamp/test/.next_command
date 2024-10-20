@@ -219,3 +219,5 @@ cd more.module
 cd node.module
 cd node_module
 cd node_modules
+pwd
+ls --color=auto
