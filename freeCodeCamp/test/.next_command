@@ -178,3 +178,27 @@ git remote set-url origin https://github.com/TEMz1/learnbash-mkos.git
 git push -u origin main
 clear
 cd freeCodeCamp
+ls --color=auto
+cd
+cd freeCodeCamp
+ls --color=auto
+ls --color=auto
+pwd
+cd project
+ls --color=auto
+cd
+cd .
+cd ..
+clear
+ls --color=auto
+cd gitpod
+ls --color=auto
+cd ..
+cd ..
+cd..
+ls --color=auto
+cd workspace
+ls --color=auto
+cd project
+cd freeCodeCamp
+pwd
