@@ -204,3 +204,4 @@ cd freeCodeCamp
 pwd
 clear
 ls --color=auto
+cd test
