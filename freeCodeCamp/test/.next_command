@@ -437,3 +437,5 @@ echo one more thing...
 echo I made this boilerplate >> README.md
 more README.d
 more README.md
+ls --color=auto
+echo from the command line >> README.md
