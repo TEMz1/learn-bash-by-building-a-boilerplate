@@ -389,3 +389,4 @@ cd .
 cd ..
 rm website/images
 rm images/background.jpg
+rmdir images
