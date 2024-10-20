@@ -430,3 +430,5 @@ touch server.js
 touch README.md
 find
 ls --color=auto
+echo Yey!
+echo Yay!
