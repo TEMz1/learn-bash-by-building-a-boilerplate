@@ -344,3 +344,6 @@ cd images
 cd assets
 cd images
 cd ../../..
+clear
+ls --color=auto
+cd images
