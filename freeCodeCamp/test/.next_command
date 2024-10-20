@@ -257,3 +257,5 @@ ls --color=auto
 touch styles.css
 ls --color=auto
 touch index.js
+clear
+touch .gitignore
