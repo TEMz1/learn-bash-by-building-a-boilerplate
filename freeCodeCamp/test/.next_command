@@ -347,3 +347,4 @@ cd ../../..
 clear
 ls --color=auto
 cd images
+ls --color=auto
