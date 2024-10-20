@@ -353,3 +353,20 @@ s
 ls --color=auto
 cd ..
 ls --color=auto
+mv images client/assets/images
+ls --color=auto
+find images
+find client
+find
+cd client
+cd assets
+cd images
+ls --color=auto
+mv images ../../..
+cd ../../..
+ks
+ls --color=auto
+clear
+ls --color=auto
+find -name src
+find -name images
