@@ -261,3 +261,4 @@ clear
 touch .gitignore
 ks
 ls --color=auto
+ls --color=auto --help
