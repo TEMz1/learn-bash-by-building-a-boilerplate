@@ -237,3 +237,4 @@ cd src
 ls --color=auto -l
 ls --color=auto
 pwd
+ls --color=auto
