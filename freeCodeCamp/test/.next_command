@@ -351,3 +351,4 @@ ls --color=auto
 mv header.png ..
 s
 ls --color=auto
+cd ..
