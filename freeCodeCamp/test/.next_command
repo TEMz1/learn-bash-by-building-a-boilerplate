@@ -432,3 +432,4 @@ find
 ls --color=auto
 echo Yey!
 echo Yay!
+echo I finished the boilerplate!
