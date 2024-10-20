@@ -221,3 +221,5 @@ cd node_module
 cd node_modules
 pwd
 ls --color=auto
+-l
+ls --color=auto -l
