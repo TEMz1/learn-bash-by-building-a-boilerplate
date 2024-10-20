@@ -215,3 +215,7 @@ cd package.json
 more package.json
 clear
 ls --color=auto
+cd more.module
+cd node.module
+cd node_module
+cd node_modules
