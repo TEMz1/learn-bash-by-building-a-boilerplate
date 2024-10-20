@@ -398,3 +398,6 @@ ls --color=auto
 rmdir icons
 mkdir clients/assets/icons
 mkdir client/assets/icons
+__vsc_prompt_cmd_original
+ls --color=auto
+mv CodeAlly.svg client/assets/icons
