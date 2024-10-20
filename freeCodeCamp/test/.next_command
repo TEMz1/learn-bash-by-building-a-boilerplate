@@ -308,3 +308,5 @@ mkdir fonts
 ls --color=auto
 mv roboto.woff /fonts
 mv roboto.woff fonts
+ls --color=auto
+find
