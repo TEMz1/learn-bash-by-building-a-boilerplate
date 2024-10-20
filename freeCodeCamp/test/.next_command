@@ -223,3 +223,4 @@ pwd
 ls --color=auto
 -l
 ls --color=auto -l
+cd has
